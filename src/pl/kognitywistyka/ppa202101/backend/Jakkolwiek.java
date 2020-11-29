@@ -1,9 +1,9 @@
 package pl.kognitywistyka.ppa202101.backend;
 
+import pl.kognitywistyka.ppa202101.Main;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import pl.kognitywistyka.ppa202101.Main;
 
 public class Jakkolwiek {
 
